@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Problema de Radiación Solar",
+        "description": "En una investigación sobre la radiación solar, se sabe que la distancia media entre el Sol y la Tierra es de 150 millones de kilómetros. Supongamos que la radiación solar media en la Tierra es de 1370 W/m². En un experimento hipotético, un satélite se encuentra a una distancia de 35,786 kilómetros sobre la superficie de la Tierra, y la radiación solar en el espacio vacío sin atmósfera es de 1361 W/m². Si consideramos que la atmósfera terrestre refleja el 25% de la radiación solar y el satélite recibe el 10% más de radiación que la media en la Tierra debido a su posición en el espacio, ¿cuál es la distancia al Sol en una dimensión alternativa donde la radiación solar en el espacio vacío es igual a la radiación que recibe el satélite en esa dimensión alternativa?"
+    },
+    {
+        "title": "Problema de Geometría Esférica",
+        "description": "Dado un círculo en una esfera con radio \( R \), si el ángulo central del círculo es \( \theta \) radianes, ¿cuál es el área del círculo en la esfera? Utiliza la fórmula del área de un segmento esférico y proporciona una solución detallada."
+    },
+    {
+        "title": "Problema de Física Cuántica",
+        "description": "En un experimento cuántico, se tiene una partícula que puede estar en dos estados. La probabilidad de que la partícula esté en el estado 1 es 0.6 y en el estado 2 es 0.4. Si medimos la partícula y encontramos que está en el estado 1, ¿cuál es la probabilidad de que, en una segunda medición, la partícula esté en el estado 2?"
+    }
+]
