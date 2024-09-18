@@ -6,4 +6,4 @@
 
 `verify/`: Un directorio que contiene scripts y documentación para verificar los cálculos de los problemas descritos en el repositorio.
 
-`LICENSE`: Contiene la licencia MIT, que permite el uso, copia, modificación y distribución del software con ciertas condiciones.
+`LICENSE`: Contiene la licencia MIT, que permite el uso, copia, modificación y distribución del contenido y del software con ciertas condiciones.
