@@ -1,4 +1,4 @@
-# Verificador del calculo para el problema de Radiación Solar 1
+# Verificador del cálculo para el problema de Radiación Solar 1
 # Disponible en https://crujera.galnod.com/helpme.php
 import math
 
@@ -12,7 +12,6 @@ I_S = 1361   # radiación solar en el espacio vacío sin atmósfera en W/m²
 I_alt = I_sat  # en la dimensión alternativa, la radiación es igual a la del satélite
 
 # Calcular la distancia al Sol en la dimensión alternativa usando la ley del inverso del cuadrado
-d_alt = d_T * math.sqrt(I_T / I_alt)
-
+d_alt = d_T * math.sqrt(I_S / I_alt)
 
 print(f"La distancia al Sol en la dimensión alternativa es aproximadamente {d_alt:.0f} km")
