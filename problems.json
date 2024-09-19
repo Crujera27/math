@@ -13,5 +13,30 @@
         "title": "Problema de Física Cuántica",
         "description": "En un experimento cuántico, se tiene una partícula que puede estar en dos estados. La probabilidad de que la partícula esté en el estado 1 es 0.6 y en el estado 2 es 0.4. Si medimos la partícula y encontramos que está en el estado 1, ¿cuál es la probabilidad de que, en una segunda medición, la partícula esté en el estado 2?",
         "solution": "La probabilidad de encontrar la partícula en el estado 2 en una segunda medición es simplemente la probabilidad inicial del estado 2, que es 0.4, ya que no hay información adicional que cambie estas probabilidades."
-    }
+    },
+    {
+        "title": "Problema de Energía de Niveles Cuánticos",
+        "description": "En un átomo de hidrógeno, los niveles de energía están dados por E_n = -13.6 eV / n². Supón que un electrón realiza una transición de n = 5 a n = 2. Si el estado base en esta situación se encuentra en una región donde la constante de Planck h = 6.626 × 10⁻³⁴ J·s y la velocidad de la luz c = 3 × 10^8 m/s, ¿cuál es la longitud de onda del fotón emitido en esta transición? Además, si la radiación en el espacio es de 1216 Å y el electrón está en un estado excitado en una dimensión alternativa, ¿cuál sería la energía del fotón en esa dimensión?",
+        "solution": "Primero, calculamos la energía del fotón utilizando la diferencia de energía entre los niveles n = 5 y n = 2. La energía del fotón es ΔE = E_2 - E_5. \n\nE_5 = -13.6 eV / 5² = -0.544 eV\nE_2 = -13.6 eV / 2² = -3.4 eV\nΔE = E_2 - E_5 = -3.4 eV - (-0.544 eV) = -2.856 eV. \n\nConvertimos esta energía a longitud de onda utilizando λ = hc / E. Primero, convertimos 2.856 eV a julios (J) usando E (J) = E (eV) × 1.602 × 10⁻¹⁹ J/eV. \n\nLa longitud de onda λ = (6.626 × 10⁻³⁴ J·s × 3 × 10^8 m/s) / (2.856 × 1.602 × 10⁻¹⁹ J) ≈ 434 nm. \n\nPara la dimensión alternativa, si la radiación es de 1216 Å (121.6 nm), utilizamos la misma fórmula para encontrar la energía del fotón en esa dimensión."
+    },
+    {
+        "title": "Problema de Interferencia de Dos Rendijas",
+        "description": "Considera un experimento de doble rendija con luz monocromática de longitud de onda λ = 600 nm. La separación entre las rendijas es de d = 0.5 mm y la pantalla está a una distancia L = 2 m de las rendijas. Si el patrón de interferencia muestra un desplazamiento de la franja central de 5 mm, ¿cuál es la distancia entre la primera y la segunda franja de interferencia? Además, si la luz es reemplazada por una luz de longitud de onda λ' = 450 nm, ¿cómo cambia la distancia entre las franjas?",
+        "solution": "La distancia entre franjas en un experimento de doble rendija está dada por Δy = λL / d. \n\nPara λ = 600 nm, Δy = (600 × 10⁻⁹ m × 2 m) / 0.5 × 10⁻³ m = 2.4 mm. \n\nPara λ' = 450 nm, la nueva distancia entre franjas será Δy' = (450 × 10⁻⁹ m × 2 m) / 0.5 × 10⁻³ m = 1.8 mm. \n\nLa distancia entre la primera y la segunda franja es simplemente la distancia entre franjas, por lo que cambia con la longitud de onda de la luz."
+    },
+    {
+        "title": "Problema de Estado de Partículas en Caja Cuántica",
+        "description": "Una partícula está en una caja unidimensional de longitud L = 1 nm con paredes infinitamente altas. La función de onda para el estado n = 3 es Ψ_n(x) = √(2/L) sin(3πx/L). Si la energía total de la partícula en el estado n = 3 es E_3 = 27π²ħ² / (2mL²), ¿cuál es la energía cinética de la partícula en este estado? Además, si el ancho de la caja se reduce a L' = 0.5 nm, ¿cuál será la nueva energía total de la partícula en el estado n = 3?",
+        "solution": "La energía cinética en la caja unidimensional es la misma que la energía total en este caso. La energía total E_3 = 27π²ħ² / (2mL²). \n\nPara L' = 0.5 nm, la nueva energía total E'_3 = 27π²ħ² / (2m(L')²) = 108π²ħ² / (2mL²). La energía total se multiplica por un factor de 4 cuando el ancho de la caja se reduce a la mitad."
+    },
+    {
+        "title": "Problema de Entrelazamiento y Medición",
+        "description": "En un experimento cuántico, se genera un par de partículas entrelazadas en el estado |Ψ⟩ = (1/√2)(|↑⟩₁|↓⟩₂ + |↓⟩₁|↑⟩₂). Si medimos el espín de la primera partícula y encontramos que es ↓, ¿cuál es el estado de la segunda partícula? Además, si el sistema está en una dimensión alternativa donde la probabilidad de medir el espín como ↑ es el doble que en la dimensión original, ¿cuál es la nueva probabilidad de que el espín de la segunda partícula sea ↓?",
+        "solution": "Cuando medimos el espín de la primera partícula y encontramos que es ↓, el estado de la segunda partícula colapsa al estado ↑. En la dimensión alternativa, si la probabilidad de medir ↑ es el doble, la probabilidad de medir ↓ se reduce a la mitad. Originalmente, la probabilidad de ↓ es 0.5, por lo que en la dimensión alternativa, la probabilidad de ↓ será 0.25."
+    },
+    {
+        "title": "Problema de Túnel Cuántico con Potencial Variable",
+        "description": "Una partícula de masa m está en una región con un potencial V(x) que aumenta linealmente con x, V(x) = kx, donde k es una constante. La partícula tiene energía E < V(x). Si el potencial se vuelve suficientemente grande, la función de onda en la región de túnel está dada por Ψ(x) = Ae^(-κx), donde κ = √(2m(V(x) - E) / ħ²). ¿Cómo varía la constante de decaimiento κ con la posición x y cómo afecta esto a la probabilidad de transmisión a través de una barrera de potencial variable?",
+        "solution": "La constante de decaimiento κ varía con la posición x debido a la dependencia lineal del potencial. La relación κ(x) = √(2m(kx - E) / ħ²) muestra que κ aumenta linealmente con x. A medida que la barrera se hace más alta, κ aumenta y la probabilidad de transmisión disminuye exponencialmente. La función de onda se reduce más rápidamente en una barrera de potencial que aumenta con x."
+    }    
 ]
