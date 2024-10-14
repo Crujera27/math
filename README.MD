@@ -2,7 +2,7 @@
 
 ### Información
 
-`problems.json`: Un archivo JSON que contiene descripciones detalladas de varios problemas.  Es utilizado por la web para cargarlos de manera dinámica
+`web/problems.json`: Un archivo JSON que contiene descripciones detalladas de varios problemas. Es utilizado por la web para cargarlos de manera dinámica.
 
 `verify/`: Un directorio que contiene scripts y documentación para verificar los cálculos de los problemas descritos en el repositorio.
 
