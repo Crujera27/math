@@ -1,3 +1,4 @@
+# Disponible en https://crujera.galnod.com/math/index.php
 # Datos del problema
 n = 3
 L_nm = 1

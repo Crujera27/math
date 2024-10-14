@@ -1,5 +1,5 @@
 # Verificador del cálculo para el problema de Radiación Solar 1
-# Disponible en https://crujera.galnod.com/helpme.php
+# Disponible en https://crujera.galnod.com/math/index.php
 import math
 
 # Datos proporcionados

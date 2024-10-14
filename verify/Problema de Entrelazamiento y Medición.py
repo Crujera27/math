@@ -1,3 +1,4 @@
+# Disponible en https://crujera.galnod.com/math/index.php
 # Datos del problema
 probabilidad_inicial_estado_2 = 0.4
 probabilidad_inicial_estado_1 = 1 - probabilidad_inicial_estado_2

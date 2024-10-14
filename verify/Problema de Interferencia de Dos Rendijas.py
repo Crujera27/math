@@ -1,3 +1,4 @@
+# Disponible en https://crujera.galnod.com/math/index.php
 # Datos del problema
 lambda_nm = 600
 d_mm = 0.5

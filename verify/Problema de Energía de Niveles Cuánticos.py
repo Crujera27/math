@@ -1,3 +1,4 @@
+# Disponible en https://crujera.galnod.com/math/index.php
 # Datos del problema
 n1 = 5
 n2 = 2

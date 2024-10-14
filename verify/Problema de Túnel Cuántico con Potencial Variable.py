@@ -1,3 +1,4 @@
+# Disponible en https://crujera.galnod.com/math/index.php
 import math
 
 # Datos del problema
