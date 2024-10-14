@@ -33,7 +33,7 @@ R_s = \frac{2G \cdot 10M_{\odot}}{c^2}
 \]
 ```
 
-## `json_to_md.py`
+## `conversorA-MD.py`
 
 Este script convierte archivos JSON que contienen problemas matemáticos a un formato Markdown compatible con `template.md`.
 
