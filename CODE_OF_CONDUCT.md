@@ -34,7 +34,7 @@ Este Código de Conducta se aplica tanto en los espacios del proyecto como en lo
 
 ## Aplicación
 
-Las instancias de comportamiento abusivo, acosador o inaceptable pueden ser reportadas contactando al equipo del proyecto en [correo electrónico de contacto]. Todas las quejas serán revisadas e investigadas y resultarán en una respuesta que se considere necesaria y apropiada a las circunstancias. El equipo del proyecto está obligado a mantener la confidencialidad con respecto a la persona que reporte un incidente. Se pueden publicar más detalles de políticas de aplicación separadamente.
+Las instancias de comportamiento abusivo, acosador o inaceptable pueden ser reportadas contactando al correo angel.c (at) galnod.com . Todas las quejas serán revisadas e investigadas y resultarán en una respuesta que se considere necesaria y apropiada a las circunstancias. El equipo del proyecto está obligado a mantener la confidencialidad con respecto a la persona que reporte un incidente. Se pueden publicar más detalles de políticas de aplicación separadamente.
 
 Los administradores del proyecto que no sigan o hagan cumplir el Código de Conducta de buena fe pueden enfrentar repercusiones temporales o permanentes según lo determinen otros miembros de la administración del proyecto.
 
